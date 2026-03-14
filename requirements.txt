@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-yfinance
-python-dotenv
-groq
-duckduckgo-search
