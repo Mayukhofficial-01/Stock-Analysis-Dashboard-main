@@ -74,6 +74,5 @@ This project is licensed under the [GNU Affero General Public License v3.0](LICE
 - [Groq AI](https://groq.com/)
 
 ---
-
-🔗 **Follow me on GitHub**: [ShivaanjayNarula](https://github.com/ShivaanjayNarula)  
-📧 **Contact**: shivaanjaynarula@gmail.com
+ 
+📧 **Contact**: mayukhchatterjee2005@gmail.com
